@@ -1,0 +1,5 @@
+c:\users\vin7\documents\visual studio 2012\Projects\js_MyPreparation\js_MyPreparation\bin\js_MyPreparation.dll
+c:\users\vin7\documents\visual studio 2012\Projects\js_MyPreparation\js_MyPreparation\bin\js_MyPreparation.pdb
+c:\users\vin7\documents\visual studio 2012\Projects\js_MyPreparation\js_MyPreparation\obj\Debug\js_MyPreparation.csprojResolveAssemblyReference.cache
+c:\users\vin7\documents\visual studio 2012\Projects\js_MyPreparation\js_MyPreparation\obj\Debug\js_MyPreparation.dll
+c:\users\vin7\documents\visual studio 2012\Projects\js_MyPreparation\js_MyPreparation\obj\Debug\js_MyPreparation.pdb

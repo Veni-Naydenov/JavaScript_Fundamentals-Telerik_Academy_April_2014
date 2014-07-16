@@ -1,0 +1,5 @@
+c:\users\vin7\documents\visual studio 2012\Projects\JS-UsingObjects\JS-UsingObjects\bin\JS-UsingObjects.dll
+c:\users\vin7\documents\visual studio 2012\Projects\JS-UsingObjects\JS-UsingObjects\bin\JS-UsingObjects.pdb
+c:\users\vin7\documents\visual studio 2012\Projects\JS-UsingObjects\JS-UsingObjects\obj\Debug\JS-UsingObjects.csprojResolveAssemblyReference.cache
+c:\users\vin7\documents\visual studio 2012\Projects\JS-UsingObjects\JS-UsingObjects\obj\Debug\JS-UsingObjects.dll
+c:\users\vin7\documents\visual studio 2012\Projects\JS-UsingObjects\JS-UsingObjects\obj\Debug\JS-UsingObjects.pdb

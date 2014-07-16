@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>task 4</title>
+    <script>
+        var undefinedValue = undefined;
+        var nullValue = null;
+
+        var myArray = [undefinedValue, nullValue];
+
+        function printResult() {
+            for (var i = 0, len = myArray.length; i < len; i++) {
+                var result = ("<i>" + myArray[i] + "</i>" + " ------> is TYPE: "
+                               + "<strong>" + typeof (myArray[i]) + "</strong>");
+
+                var node = document.getElementById("resultDiv").cloneNode(true);
+                node.innerHTML = result.toString();
+                document.body.appendChild(node);
+            }
+        }
+    </script>
+</head>
+    
+<body onload="printResult()">
+    <div id="resultDiv"></div >
+</body>
+</html>

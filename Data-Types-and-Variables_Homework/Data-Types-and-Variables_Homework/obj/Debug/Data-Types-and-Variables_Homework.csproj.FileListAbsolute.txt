@@ -1,0 +1,5 @@
+c:\users\vin7\documents\visual studio 2012\Projects\Data-Types-and-Variables_Homework\Data-Types-and-Variables_Homework\bin\Data-Types-and-Variables_Homework.dll
+c:\users\vin7\documents\visual studio 2012\Projects\Data-Types-and-Variables_Homework\Data-Types-and-Variables_Homework\bin\Data-Types-and-Variables_Homework.pdb
+c:\users\vin7\documents\visual studio 2012\Projects\Data-Types-and-Variables_Homework\Data-Types-and-Variables_Homework\obj\Debug\Data-Types-and-Variables_Homework.csprojResolveAssemblyReference.cache
+c:\users\vin7\documents\visual studio 2012\Projects\Data-Types-and-Variables_Homework\Data-Types-and-Variables_Homework\obj\Debug\Data-Types-and-Variables_Homework.dll
+c:\users\vin7\documents\visual studio 2012\Projects\Data-Types-and-Variables_Homework\Data-Types-and-Variables_Homework\obj\Debug\Data-Types-and-Variables_Homework.pdb

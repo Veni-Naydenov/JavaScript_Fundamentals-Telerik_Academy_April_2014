@@ -1,0 +1,5 @@
+c:\users\vin7\documents\visual studio 2012\Projects\JS-Homework_Strings\JS-Homework_Strings\bin\JS-Homework_Strings.dll
+c:\users\vin7\documents\visual studio 2012\Projects\JS-Homework_Strings\JS-Homework_Strings\bin\JS-Homework_Strings.pdb
+c:\users\vin7\documents\visual studio 2012\Projects\JS-Homework_Strings\JS-Homework_Strings\obj\Debug\JS-Homework_Strings.csprojResolveAssemblyReference.cache
+c:\users\vin7\documents\visual studio 2012\Projects\JS-Homework_Strings\JS-Homework_Strings\obj\Debug\JS-Homework_Strings.dll
+c:\users\vin7\documents\visual studio 2012\Projects\JS-Homework_Strings\JS-Homework_Strings\obj\Debug\JS-Homework_Strings.pdb
